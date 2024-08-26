@@ -38,8 +38,13 @@ const ThumbnailCarousel = () => {
       id: 6,
       url: 'https://www.meenabazaar.shop/cdn/shop/files/SPPX6691_JPG.jpg?v=1695626745',
       thumbnail: 'https://www.meenabazaar.shop/cdn/shop/files/SPPX6691_JPG.jpg?v=1695626745',
-    }
+    },
 
+    {
+      id: 6,
+      url: 'https://www.meenabazaar.shop/cdn/shop/files/SPPX6691_JPG.jpg?v=1695626745',
+      thumbnail: 'https://www.meenabazaar.shop/cdn/shop/files/SPPX6691_JPG.jpg?v=1695626745',
+    }
 
 
 
